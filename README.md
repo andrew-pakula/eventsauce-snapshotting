@@ -13,7 +13,7 @@ composer require andreo/eventsauce-snapshotting
 ### Requirements
 
 - PHP ^8.1
-- Doctrine Dbal ^3.1
+- Doctrine Dbal ^3.0
 
 ### Doctrine snapshot repository
 
